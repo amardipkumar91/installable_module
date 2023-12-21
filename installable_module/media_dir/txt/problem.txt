@@ -1,0 +1,22 @@
+i took 9th Dec 2023 data for 00th hour for sard provider from s3 bucket.
+convert the parquet data to the .gz file
+took the timestamp from file that is in the epoc format.
+convert that epoc to utc it gives the date 10th dec 2023 00 hour.
+and in etc it gives the date 9th dec 2023 19th hour
+
+
+
+app :240
+
+Date : 9th Dec 3rd hour
+utc : 10th dec 3rd hour
+est: 9th dec 22nd hour
+
+
+app:576 ,240
+date: 8th dec 18th hour
+utc: 8th dec 18th hour
+
+app:576
+date 8th dec 4th hour
+utc : 8th dec 4th hour

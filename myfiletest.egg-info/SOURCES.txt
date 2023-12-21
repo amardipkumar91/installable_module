@@ -1,0 +1,8 @@
+README.md
+setup.py
+installable_module/__init__.py
+installable_module/module_1.py
+myfiletest.egg-info/PKG-INFO
+myfiletest.egg-info/SOURCES.txt
+myfiletest.egg-info/dependency_links.txt
+myfiletest.egg-info/top_level.txt

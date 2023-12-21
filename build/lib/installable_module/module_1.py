@@ -12,8 +12,8 @@ class FileReader(object):
             
 class S3Upload(object):
     def __init__(self):
-        self.aws_access_key_id = '**'
-        self.aws_secret_access_key = '**'
+        self.aws_access_key_id = 'AKIAZLOARO24OJV6244S'
+        self.aws_secret_access_key = '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'
         self.bucket_name = 'new-image-upload'
     
     def s3_connnect(self):
